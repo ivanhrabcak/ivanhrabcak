@@ -1,7 +1,7 @@
 
 <div>
   <img align="center" src=https://github-readme-stats.vercel.app/api?username=ivanhrabcak&show_icons=true&count_private=true>
-  <img align="center" style="padding: 10px;" src=https://github-readme-stats.vercel.app/api/top-langs/?username=ivanhrabcak><br>
+  <img align="center" style="padding: 10px;" src=https://github-readme-stats.vercel.app/api/top-langs/?username=ivanhrabcak><br><br>
 </div>
 
 [![PasswordManager](https://github-readme-stats.vercel.app/api/pin/?username=ivanhrabcak&repo=PasswordManager)](https://github.com/ivanhrabcak/PasswordManager)
